@@ -27,3 +27,4 @@ linguistic database:
 
 Several methods have been used compare the effects. The almost same result could be achieved. In addition, some more analysis elements can be introduced. Numbers are very important. Similarly, domesticated crops, water, forests, etc. are also important elements. This is a common environmental feature faced by ancient humans.
 
+Japanese is now regarded as a special case of Altaic by most scholars. People tend to think that it is less related to Austronesian. However, existing results have a lot of uncertainty. 
