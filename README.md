@@ -1,4 +1,18 @@
 # austronesian
+
+This is scientific research of summer mini programme by FOSE(Faculty of Science and Engineering) in University of Nottingham, Ningbo, China.
+
+**Title**: Quantitative analysis for Austronesian
+
+**Background**: Austronesian is a language spoken in Pacific and Indian Oceans islands. This project aims at use quantative methods to analyze the relationship of austronesian languages based on language database.
+
+**References**:
++ Atkinson, Quentin Douglas. From species to languages: a phylogenetic approach to human prehistory. Diss. Univ. Auckland, 2006.
++ Sagart, Laurent, et al. "Dated language phylogenies shed light on the ancestry of Sino-Tibetan." Proceedings of the National Academy of Sciences 116.21 (2019): 10317-10322.
++ Sagart, Laurent, et al. "Supplementary Information for the Paper “Dated Language Phylogenies Shed Light on the ancestry of Sino-Tibetan languages”." (2019).
+
+**Supervisor**: Dr. Tengwen Long
+
 ## Quantatitive analysis of linguistics
 
 **Background enhancement**
